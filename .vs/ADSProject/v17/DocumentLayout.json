@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Alex\\Desktop\\ANALISIS DE SISTEMAS\\LAB_ANALISIS\\ADSProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF40E604-CB18-45D1-A755-3870E20C1A1E}|ADSProject.csproj|c:\\users\\alex\\desktop\\analisis de sistemas\\lab_analisis\\adsproject\\controllers\\carreracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF40E604-CB18-45D1-A755-3870E20C1A1E}|ADSProject.csproj|solutionrelative:controllers\\carreracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF40E604-CB18-45D1-A755-3870E20C1A1E}|ADSProject.csproj|c:\\users\\alex\\desktop\\analisis de sistemas\\lab_analisis\\adsproject\\repositories\\carrerarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF40E604-CB18-45D1-A755-3870E20C1A1E}|ADSProject.csproj|solutionrelative:repositories\\carrerarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF40E604-CB18-45D1-A755-3870E20C1A1E}|ADSProject.csproj|c:\\users\\alex\\desktop\\analisis de sistemas\\lab_analisis\\adsproject\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF40E604-CB18-45D1-A755-3870E20C1A1E}|ADSProject.csproj|solutionrelative:controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,29 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CarreraController.cs",
-              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\ANALISIS DE SISTEMAS\\LAB_ANALISIS\\ADSProject\\Controllers\\CarreraController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CarreraController.cs",
-              "ToolTip": "C:\\Users\\Alex\\Desktop\\ANALISIS DE SISTEMAS\\LAB_ANALISIS\\ADSProject\\Controllers\\CarreraController.cs",
-              "RelativeToolTip": "Controllers\\CarreraController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Title": "EstudiantesController.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\ANALISIS DE SISTEMAS\\LAB_ANALISIS\\ADSProject\\Controllers\\EstudiantesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EstudiantesController.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\ANALISIS DE SISTEMAS\\LAB_ANALISIS\\ADSProject\\Controllers\\EstudiantesController.cs",
+              "RelativeToolTip": "Controllers\\EstudiantesController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBgAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T02:18:40.506Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-04-04T01:49:23.414Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CarreraRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\ANALISIS DE SISTEMAS\\LAB_ANALISIS\\ADSProject\\Repositories\\CarreraRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\CarreraRepository.cs",
-              "ToolTip": "C:\\Users\\Alex\\Desktop\\ANALISIS DE SISTEMAS\\LAB_ANALISIS\\ADSProject\\Repositories\\CarreraRepository.cs",
-              "RelativeToolTip": "Repositories\\CarreraRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T02:04:00.959Z",
-              "IsPinned": true
             }
           ]
         }

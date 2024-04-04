@@ -30,3 +30,4 @@ C:\Users\Alex\Desktop\ANALISIS DE SISTEMAS\LAB_ANALISIS\ADSProject\obj\Debug\net
 C:\Users\Alex\Desktop\ANALISIS DE SISTEMAS\LAB_ANALISIS\ADSProject\obj\Debug\net8.0\ADSProject.pdb
 C:\Users\Alex\Desktop\ANALISIS DE SISTEMAS\LAB_ANALISIS\ADSProject\obj\Debug\net8.0\ADSProject.genruntimeconfig.cache
 C:\Users\Alex\Desktop\ANALISIS DE SISTEMAS\LAB_ANALISIS\ADSProject\obj\Debug\net8.0\ref\ADSProject.dll
+C:\Users\Alex\Desktop\ANALISIS DE SISTEMAS\LAB_ANALISIS\ADSProject\obj\Debug\net8.0\ADSProject.sourcelink.json
