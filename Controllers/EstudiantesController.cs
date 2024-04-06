@@ -26,6 +26,14 @@ namespace ADSProject.Controllers
         {
             try
             {
+                //verificar que todas las validaciones por atributo del modelo esten correctas
+                if(!ModelState.IsValid)
+                {
+                    //en caso de no cumplir con todas las validaciones se procede a retornar una respuesta erronea
+                    return BadRequest(ModelState);
+                }
+
+
                 int contador = this.estudiante.AgregarEstudiante(estudiante);
                 if (contador > 0)
                 {
@@ -53,6 +61,12 @@ namespace ADSProject.Controllers
         [HttpPut("actualizarEstudiante/{idEstudiante}")]
         public ActionResult<string> ActualizarEstudiante(int idEstudiante, [FromBody] Estudiante estudiante)
         {
+            //verificar que todas las validaciones por atributo del modelo esten correctas
+            if (!ModelState.IsValid)
+            {
+                //en caso de no cumplir con todas las validaciones se procede a retornar una respuesta erronea
+                return BadRequest(ModelState);
+            }
 
             try
             {

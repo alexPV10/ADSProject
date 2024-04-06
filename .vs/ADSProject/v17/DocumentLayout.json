@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Alex\\Desktop\\ANALISIS DE SISTEMAS\\LAB_ANALISIS\\ADSProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF40E604-CB18-45D1-A755-3870E20C1A1E}|ADSProject.csproj|c:\\users\\alex\\desktop\\analisis de sistemas\\lab_analisis\\adsproject\\controllers\\grupocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF40E604-CB18-45D1-A755-3870E20C1A1E}|ADSProject.csproj|solutionrelative:controllers\\grupocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF40E604-CB18-45D1-A755-3870E20C1A1E}|ADSProject.csproj|c:\\users\\alex\\desktop\\analisis de sistemas\\lab_analisis\\adsproject\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF40E604-CB18-45D1-A755-3870E20C1A1E}|ADSProject.csproj|solutionrelative:controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF40E604-CB18-45D1-A755-3870E20C1A1E}|ADSProject.csproj|c:\\users\\alex\\desktop\\analisis de sistemas\\lab_analisis\\adsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF40E604-CB18-45D1-A755-3870E20C1A1E}|ADSProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF40E604-CB18-45D1-A755-3870E20C1A1E}|ADSProject.csproj|c:\\users\\alex\\desktop\\analisis de sistemas\\lab_analisis\\adsproject\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF40E604-CB18-45D1-A755-3870E20C1A1E}|ADSProject.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF40E604-CB18-45D1-A755-3870E20C1A1E}|ADSProject.csproj|c:\\users\\alex\\desktop\\analisis de sistemas\\lab_analisis\\adsproject\\controllers\\materiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF40E604-CB18-45D1-A755-3870E20C1A1E}|ADSProject.csproj|solutionrelative:controllers\\materiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF40E604-CB18-45D1-A755-3870E20C1A1E}|ADSProject.csproj|c:\\users\\alex\\desktop\\analisis de sistemas\\lab_analisis\\adsproject\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF40E604-CB18-45D1-A755-3870E20C1A1E}|ADSProject.csproj|solutionrelative:models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\ANALISIS DE SISTEMAS\\LAB_ANALISIS\\ADSProject\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Alex\\Desktop\\ANALISIS DE SISTEMAS\\LAB_ANALISIS\\ADSProject\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T00:46:16.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\ANALISIS DE SISTEMAS\\LAB_ANALISIS\\ADSProject\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\Alex\\Desktop\\ANALISIS DE SISTEMAS\\LAB_ANALISIS\\ADSProject\\WeatherForecast.cs",
-              "RelativeToolTip": "WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T00:46:15.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MateriaController.cs",
-              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\ANALISIS DE SISTEMAS\\LAB_ANALISIS\\ADSProject\\Controllers\\MateriaController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MateriaController.cs",
-              "ToolTip": "C:\\Users\\Alex\\Desktop\\ANALISIS DE SISTEMAS\\LAB_ANALISIS\\ADSProject\\Controllers\\MateriaController.cs",
-              "RelativeToolTip": "Controllers\\MateriaController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T00:38:42.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GrupoController.cs",
-              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\ANALISIS DE SISTEMAS\\LAB_ANALISIS\\ADSProject\\Controllers\\GrupoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\GrupoController.cs",
-              "ToolTip": "C:\\Users\\Alex\\Desktop\\ANALISIS DE SISTEMAS\\LAB_ANALISIS\\ADSProject\\Controllers\\GrupoController.cs",
-              "RelativeToolTip": "Controllers\\GrupoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJQAAAAkAAAA",
+              "Title": "EstudiantesController.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\ANALISIS DE SISTEMAS\\LAB_ANALISIS\\ADSProject\\Controllers\\EstudiantesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EstudiantesController.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\ANALISIS DE SISTEMAS\\LAB_ANALISIS\\ADSProject\\Controllers\\EstudiantesController.cs",
+              "RelativeToolTip": "Controllers\\EstudiantesController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwDwAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T00:36:10.742Z",
+              "WhenOpened": "2024-04-06T17:35:55.338Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\ANALISIS DE SISTEMAS\\LAB_ANALISIS\\ADSProject\\Models\\Estudiante.cs",
+              "RelativeDocumentMoniker": "Models\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\ANALISIS DE SISTEMAS\\LAB_ANALISIS\\ADSProject\\Models\\Estudiante.cs",
+              "RelativeToolTip": "Models\\Estudiante.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:27:56.022Z",
               "EditorCaption": ""
             }
           ]
