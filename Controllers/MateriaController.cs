@@ -25,6 +25,11 @@ namespace ADSProject.Controllers
         {
             try
             {
+                if(!ModelState.IsValid)
+                {
+                    return BadRequest(ModelState);
+                }
+
                 int contador = this.materia.AgregarMateria(materia);
 
                 if (contador > 0)
@@ -55,6 +60,10 @@ namespace ADSProject.Controllers
         {
             try
             {
+                if (!ModelState.IsValid)
+                {
+                    return BadRequest(ModelState);
+                }
                 int contador = this.materia.ActualizarMateria(idMateria, materia);
 
                 if (contador > 0)
